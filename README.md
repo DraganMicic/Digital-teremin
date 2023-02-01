@@ -1,7 +1,7 @@
 # Digital-teremin
 Digital musical instrument based on distance sensors and 8-bit PIC microcontroler. High school project. (2017)
 
-[Youtube demo video](https://www.youtube.com/watch?v=chjX0MDBCEE)
+[Demo video](https://www.youtube.com/watch?v=chjX0MDBCEE)
 
 This Theremin is composed of two probes connected to an application, that processes the information. Each probe is made of one IR distance sensor, an MCU (PIC18f45k22) and a USB UART click for serial communication with a computer.
 
